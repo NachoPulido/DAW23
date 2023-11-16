@@ -1,0 +1,5 @@
+Nombre: Ivan
+Apellido :Galvez
+E-Mail: ivangalvezfrs1999@gmail.com
+Equipo de futbol: Real Zaragoza
+Imagen : https://avatars.githubusercontent.com/u/150186781?s=400&v=4.jpg
