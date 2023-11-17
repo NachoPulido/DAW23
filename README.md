@@ -7,4 +7,6 @@ Ivan Galvez
 Javier Navarro
 Alba Gracia
 Sara Fasius
+Alin Gabriel Cercel
+Andrei Alejandro Badea
 
