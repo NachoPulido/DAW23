@@ -2,4 +2,4 @@ Nombre: Javier
 Apellidos: Navarro Bovio
 Correo: javi2navarro@gmail.com
 Equipo: Club Atlético Osasuna
-Imagen: https://avatars.githubusercontent.com/u/150186978?v=4.jpg
+Imagen: Avatar_Javier_Navarro.jpg
