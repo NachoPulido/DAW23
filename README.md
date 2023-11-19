@@ -8,7 +8,6 @@ Javier Navarro
 Alba Gracia
 Sara Fasius
 Javier Pellejero
-Miguelon A. Sanchez
 Alin Gabriel Cercel
 Andrei Alejandro Badea
 
