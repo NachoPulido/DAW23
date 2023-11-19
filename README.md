@@ -7,4 +7,10 @@ Ivan Galvez
 Javier Navarro
 Alba Gracia
 Sara Fasius
+<<<<<<< HEAD
 Miguelon Sanchez
+=======
+Alin Gabriel Cercel
+Andrei Alejandro Badea
+
+>>>>>>> 9f765d57503ee58549ec2878f2d7bd1960205e8d
