@@ -7,7 +7,7 @@ Ivan Galvez
 Javier Navarro
 Alba Gracia
 Sara Fasius
-Javier Pellejero
+Javi Pellejero
 Alin Gabriel Cercel
 Andrei Alejandro Badea
 
