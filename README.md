@@ -7,9 +7,8 @@ Ivan Galvez
 Javier Navarro
 Alba Gracia
 Sara Fasius
-<<<<<<< HEAD
+Javier Pellejero
 Miguelon Sanchez
-=======
 Alin Gabriel Cercel
 Andrei Alejandro Badea
 
