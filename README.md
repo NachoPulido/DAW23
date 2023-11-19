@@ -12,7 +12,8 @@ Miguelon Sanchez
 Alin Gabriel Cercel
 Andrei Alejandro Badea
 Lili Wu
-
+Damián Muñoz
+Javier Pasamar
 <<<<<<< HEAD
 Francisco Beltran Uldemolins
 =======
