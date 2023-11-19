@@ -7,5 +7,16 @@ Ivan Galvez
 Javier Navarro
 Alba Gracia
 Sara Fasius
+Javier Pellejero
+Miguelon Sanchez
+Alin Gabriel Cercel
+Andrei Alejandro Badea
 
+<<<<<<< HEAD
 Francisco Beltran Uldemolins
+=======
+>>>>>>> 9f765d57503ee58549ec2878f2d7bd1960205e8d
+Cristina Simon
+>>>>>>> 085d88c028a03b9f48bcb775ff740b58caaae3d1
+Resuelvo el conflicto en esta primera linea del README.md
+Tambien modifico la segunda linea del README.md
